@@ -9,5 +9,8 @@
 Did:
 git remote set-url origin https://github.com/inshallah573/WorkflowTest.git
 
-And then
+Then:
+git branch -M main
+
+And then:
 git push -u origin main
